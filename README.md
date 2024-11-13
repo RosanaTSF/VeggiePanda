@@ -61,7 +61,7 @@ Para usar as funcionalidades do **VeggiePanda** e explorar os conceitos:
 
 Aproveite a experiência do **VeggiePanda** e veja como os conceitos de AWS Step Functions e outros serviços da AWS podem transformar a forma de gerenciar processos de um delivery (e muito mais)!
 
-## Dicionário de Termos 📖
+## Dicionário de Termos
 - **AWS Step Functions**: Serviço da AWS que orquestra múltiplos serviços e automações em um fluxo de trabalho visual.
 - **AWS Lambda**: Serviço serverless que permite executar código sem provisionar ou gerenciar servidores.
 - **Task State (Estado de Tarefa)**: Um estado de Step Function que realiza uma tarefa, como chamar uma função Lambda.
