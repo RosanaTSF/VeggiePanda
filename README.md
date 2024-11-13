@@ -1,5 +1,5 @@
 # VeggiePanda 🐼🥦
-Bem-vindo ao **VeggiePanda**, um delivery vegano de comidas kawaii que explora as funcionalidades do AWS Step Functions de forma divertida e educativa! Este README é o nosso "menu" de conceitos e técnicas que você vai degustar, juntamente com detalhes sobre a AWS.
+Bem-vindo ao **VeggiePanda**, um Delivery Vegano de Comidas Kawaii que explora as funcionalidades do AWS Step Functions de forma divertida e educativa! Este README é o nosso "menu" de conceitos e técnicas que você vai degustar, juntamente com detalhes sobre a AWS.
 
 ## Sobre a AWS
 A Amazon Web Services (AWS) é uma plataforma de serviços em nuvem oferecida pela Amazon, que fornece infraestrutura e serviços para desenvolvimento de aplicações escaláveis e seguras. Os serviços da AWS, como o **AWS Step Functions**, permitem automatizar e gerenciar fluxos de trabalho complexos de forma simplificada.
@@ -60,3 +60,15 @@ Para usar as funcionalidades do **VeggiePanda** e explorar os conceitos:
 ![VeggiePanda Logo](../assets/veggie.png)
 
 Aproveite a experiência do **VeggiePanda** e veja como os conceitos de AWS Step Functions e outros serviços da AWS podem transformar a forma de gerenciar processos de um delivery (e muito mais)!
+
+## Dicionário de Termos 📖
+- **AWS Step Functions**: Serviço da AWS que orquestra múltiplos serviços e automações em um fluxo de trabalho visual.
+- **AWS Lambda**: Serviço serverless que permite executar código sem provisionar ou gerenciar servidores.
+- **Task State (Estado de Tarefa)**: Um estado de Step Function que realiza uma tarefa, como chamar uma função Lambda.
+- **Choice State (Estado Condicional)**: Permite a execução de caminhos diferentes com base em condições definidas.
+- **Parallel State (Estado Paralelo)**: Permite que vários ramos sejam executados ao mesmo tempo.
+- **Wait State (Estado de Espera)**: Pausa o fluxo de trabalho por um tempo específico.
+- **IAM (Identity and Access Management)**: Serviço da AWS que controla permissões e acesso aos recursos.
+- **CloudWatch**: Serviço de monitoramento e observação que ajuda a gerenciar logs e métricas de aplicações.
+
+Se divirta e explore como as **Step Functions** e outros conceitos da AWS podem ser aplicados ao mundo do delivery com um toque de diversão e aprendizado!
