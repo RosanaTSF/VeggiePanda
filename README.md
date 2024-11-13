@@ -57,7 +57,7 @@ Para usar as funcionalidades do **VeggiePanda** e explorar os conceitos:
 3. Execute os scripts que criam as Step Functions e as Lambdas para simular o fluxo do delivery.
 
 ## Imagem do Logo
-![VeggiePanda Logo](../assets/veggie.png)
+![VeggiePanda Logo](../assets/veggie.PNG)
 
 Aproveite a experiência do **VeggiePanda** e veja como os conceitos de AWS Step Functions e outros serviços da AWS podem transformar a forma de gerenciar processos de um delivery (e muito mais)!
 
